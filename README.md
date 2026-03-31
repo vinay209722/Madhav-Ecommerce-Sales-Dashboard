@@ -98,7 +98,8 @@ These slicers allow dynamic filtering of the entire dashboard for focused analys
 
 ## 🖼️ Dashboard Preview
 
-![Madhav Ecommerce Sales Dashboard](dashboard_screenshot.png)
+<img width="1159" height="649" alt="Screenshot 2026-03-30 235006" src="https://github.com/user-attachments/assets/f736e2ba-1ecc-4711-b699-38baffb9f36b" />
+
 
 ---
 
